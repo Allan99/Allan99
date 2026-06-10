@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Allan Tiotonho Pereira and I'm a Backend Developer, from Brazil.</h2>
+<h2 align="left">Olá 👋! Meu nome é Allan Tiotonho Pereira e sou Desenvolvedor Backend.</h2>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Passionate backend developer focused on Java and Spring Boot. I enjoy building APIs, learning software architecture, and exploring new technologies. Currently improving my skills in backend development, databases, Linux, and cloud technologies while continuously working on personal projects.</p>
+<p align="left">Desenvolvedor backend, com foco em Java e Spring Boot. Gosto de construir APIs, aprender sobre arquitetura de software e explorar novas tecnologias. Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend, bancos de dados, Linux e tecnologias de nuvem, enquanto continuo trabalhando em projetos pessoais.</p>
 
 ###
 
-<h2 align="left">Languages and other tools</h2>
+<h2 align="left">Habilidades</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">Social Medias</h2>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
