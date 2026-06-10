@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Desenvolvedor backend, com foco em Java e Spring Boot. Gosto de construir APIs, aprender sobre arquitetura de software e explorar novas tecnologias. Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend, bancos de dados, Linux e tecnologias de nuvem, enquanto continuo trabalhando em projetos pessoais.</p>
+<p align="left">Sou desenvolvedor backend, com foco em Java e Spring Boot. Gosto de construir APIs, aprender sobre arquitetura de software e explorar novas tecnologias. Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend, bancos de dados, Linux e tecnologias de nuvem, enquanto continuo trabalhando em projetos pessoais.</p>
 
 ###
 
