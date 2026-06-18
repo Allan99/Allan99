@@ -1,49 +1,15 @@
-<h2 align="left">Olá 👋! Meu nome é Allan Tiotonho Pereira e sou Desenvolvedor Backend.</h2>
+# 💫 Sobre mim:
+Sou desenvolvedor Back-End, com foco em Java e Spring Boot. Gosto de construir APIs, aprender sobre arquitetura de software e explorar novas tecnologias. Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend, bancos de dados, Linux e tecnologias de nuvem, enquanto continuo trabalhando em projetos pessoais.<br><br>
 
-###
 
-<img align="right" height="126" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemoyN2d0ZGNic2Fxcjh3djY5bWVkdjB2dno2ODQ5a2xlcnd3dXI2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/874NxUtoyYaJw0UeYz/giphy.gif"  />
+## 🌐 Redes sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/allan-tiotonho-pereira-a8b9a6189) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12685699) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allanpereira773@gmail.com) 
 
-###
+# 💻 Habilidades:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 Estatísticas do Github:
+![](https://github-readme-stats.shion.dev/api?username=Allan99&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Allan99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Allan99&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">Sou desenvolvedor Back-End, com foco em Java e Spring Boot. Gosto de construir APIs, aprender sobre arquitetura de software e explorar novas tecnologias. Atualmente, estou aprimorando minhas habilidades em desenvolvimento backend, bancos de dados, Linux e tecnologias de nuvem, enquanto continuo trabalhando em projetos pessoais.</p>
-
-###
-
-<h2 align="left">Habilidades</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-</div>
-
-###
-
-<h2 align="left">Redes Sociais</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/allan-tiotonho-a8b9a6189/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
